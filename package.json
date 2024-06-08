@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/plugin-transform-class-properties": "^7.24.7",
+    "@babel/plugin-transform-numeric-separator": "^7.24.7",
     "@jridgewell/sourcemap-codec": "^1.4.15",
     "@rollup/plugin-terser": "^0.4.4",
     "@testing-library/jest-dom": "^5.17.0",
