@@ -20,8 +20,6 @@
     "react-router-dom": "^6.23.1",
     "react-scripts": "^5.0.1",
     "rimraf": "^5.0.7",
-    "rollup-plugin-terser": "^7.0.2",
-    "sourcemap-codec": "^1.4.8",
     "svgo": "^3.3.2",
     "web-vitals": "^2.1.4"
   },
@@ -38,7 +36,8 @@
     ]
   },
   "resolutions": {
-    "sourcemap-codec": "@jridgewell/sourcemap-codec"
+    "sourcemap-codec": "@jridgewell/sourcemap-codec",
+    "rollup-plugin-terser":"@rollup/plugin-terser"
   },
   "browserslist": {
     "production": [
