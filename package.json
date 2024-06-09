@@ -39,7 +39,7 @@
   },
   "resolutions": {
     "sourcemap-codec": "@jridgewell/sourcemap-codec",
-    "rollup-plugin-terser" : "@jridgewell/sourcemap-codec"
+    "rollup-plugin-terser": "@jridgewell/sourcemap-codec"
   },
   "browserslist": {
     "production": [
