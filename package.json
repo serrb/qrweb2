@@ -37,6 +37,9 @@
       "react-app/jest"
     ]
   },
+  "resolutions": {
+    "sourcemap-codec": "@jridgewell/sourcemap-codec"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
